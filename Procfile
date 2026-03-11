@@ -1,0 +1,1 @@
+worker: python discord_a.py & python discord_b.py
